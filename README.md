@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yoshihiro Koyama
-- 👀 I’m interested in Web development and Machine Learning 
-- 🌱 I’m currently learning FastAPI, Nuxt.js, Golang
+- :pencil: I'm majoring in Agricultural Science at Kobe Uviversity
+- 👀 I’m interested in Web Development, Machine Learning, Data Science and its applycation for Agriculture
+- 🌱 I’m currently learning FastAPI, Nuxt.js, Golang, Statistics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via Twitter(@hirosuke29)
 
